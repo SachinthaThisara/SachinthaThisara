@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Network Security, Ethical Hacking, Mobile Security, and Risk Management.**
 
 
-- 📫 How to reach me **sachinthathisara001@gmail.com**
+- 📫 How to reach me **sachintha.thisara.k@gmail.com**
 
 <h2 align="center">My Statistics</h2>
   
